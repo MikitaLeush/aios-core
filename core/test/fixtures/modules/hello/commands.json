@@ -1,0 +1,1 @@
+[{ "id": "hello.greet", "patterns": ["greet {name}", "say hello to {name}"], "help": "Greet someone" }]

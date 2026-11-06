@@ -1,0 +1,1 @@
+{ "id": "chain-c", "name": "Chain c", "version": "0.1.0", "core": 1, "requires": [], "server": "server.js" }

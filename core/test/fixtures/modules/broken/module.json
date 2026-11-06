@@ -1,0 +1,1 @@
+{ "id": "broken", "name": "Broken", "version": "0.1.0", "core": 1, "server": "server.js", "commands": "commands.json", "panel": "panel.js" }

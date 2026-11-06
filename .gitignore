@@ -1,0 +1,10 @@
+# per machine, never published
+/system/
+/outputs/
+/tasks/
+node_modules/
+__pycache__/
+*.pyc
+.aios-history/
+# modules you install live here; they come from their own repos
+/modules/

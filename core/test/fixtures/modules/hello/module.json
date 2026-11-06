@@ -1,0 +1,8 @@
+{
+  "id": "hello", "name": "Hello", "version": "0.1.0", "core": 1,
+  "description": "Test fixture: a route, a command, a slot, an event.",
+  "requires": [], "touches": ["nothing"],
+  "server": "server.js", "panel": "panel.js", "commands": "commands.json",
+  "page": { "path": "/hello-page", "file": "assets/page.html" },
+  "defaults": { "greeting": "hello" }
+}
